@@ -16,5 +16,5 @@ data class Module(
             "available" to available,
             "topicId" to topicId,
             "nextModuleId" to nextModuleId,
-        ).filterValues { it != null } as Map<String, Any>
+        ).filterValues { it != null }.mapValues { (_, value) -> value as Any }
 }

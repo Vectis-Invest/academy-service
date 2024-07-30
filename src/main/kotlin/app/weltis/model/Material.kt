@@ -56,7 +56,7 @@ sealed class Material {
         override val order: Int,
         override val title: Map<String, String>,
         val description: Map<String, String>,
-        val options: Map<String, PollOption>,
+        val choices: Map<String, PollOption>,
     ) : Material() {
         override fun toMap(
             lessonId: String,
@@ -66,7 +66,7 @@ sealed class Material {
             super.toMap(lessonId, nextMaterialId, env) +
                 mapOf(
                     "description" to description,
-                    "options" to options,
+                    "choices" to choices,
                 )
     }
 
