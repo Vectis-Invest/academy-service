@@ -1,3 +1,6 @@
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+import org.jetbrains.kotlin.gradle.tasks.KotlinJvmCompile
+
 plugins {
     kotlin("jvm") version "2.0.0"
     kotlin("plugin.allopen") version "2.0.0"
@@ -14,9 +17,10 @@ val quarkusPlatformArtifactId: String by project
 val quarkusPlatformVersion: String by project
 
 dependencies {
-    implementation(enforcedPlatform("${quarkusPlatformGroupId}:${quarkusPlatformArtifactId}:${quarkusPlatformVersion}"))
-    implementation(enforcedPlatform("${quarkusPlatformGroupId}:quarkus-google-cloud-services-bom:${quarkusPlatformVersion}"))
+    implementation(enforcedPlatform("$quarkusPlatformGroupId:$quarkusPlatformArtifactId:$quarkusPlatformVersion"))
+    implementation(enforcedPlatform("$quarkusPlatformGroupId:quarkus-google-cloud-services-bom:$quarkusPlatformVersion"))
     implementation("io.quarkus:quarkus-rest")
+    implementation("io.quarkus:quarkus-resteasy-reactive-jackson")
     implementation("io.quarkiverse.googlecloudservices:quarkus-google-cloud-firestore")
     implementation("io.quarkus:quarkus-kotlin")
     implementation("io.quarkiverse.googlecloudservices:quarkus-google-cloud-firebase-admin")
@@ -44,7 +48,9 @@ allOpen {
     annotation("io.quarkus.test.junit.QuarkusTest")
 }
 
-tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
-    kotlinOptions.jvmTarget = JavaVersion.VERSION_21.toString()
-    kotlinOptions.javaParameters = true
+tasks.withType<KotlinJvmCompile> {
+    compilerOptions {
+        jvmTarget.set(JvmTarget.JVM_21)
+        javaParameters.set(true)
+    }
 }

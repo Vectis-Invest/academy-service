@@ -1,0 +1,2725 @@
+{
+  "getStartedStoriesUrls": [
+    "gs://weltis-development.appspot.com/academy/get_started_stories/get_started.mov",
+    "gs://weltis-development.appspot.com/academy/get_started_stories/get_started.mov",
+    "gs://weltis-development.appspot.com/academy/get_started_stories/get_started.mov"
+  ],
+  "topics": [
+    {
+      "name": {
+        "en": "Savings and Budgeting",
+        "it": "Risparmi e Budget"
+      },
+      "description": {
+        "en": "Savings and budgeting are essential financial skills that involve planning and managing personal finances to achieve financial stability and goals. Savings refer to setting aside a portion of income for future use, while budgeting involves creating a plan to allocate income towards expenses, savings, and investments. These practices help individuals control their spending, prepare for emergencies, and work towards long-term financial objectives such as buying a home, retirement, or education.",
+        "it": "Il risparmio e la pianificazione del budget sono competenze finanziarie essenziali che implicano la pianificazione e la gestione delle finanze personali per raggiungere la stabilità e gli obiettivi finanziari. Il risparmio consiste nel mettere da parte una parte del reddito per uso futuro, mentre la pianificazione del budget comporta la creazione di un piano per allocare il reddito verso spese, risparmi e investimenti. Queste pratiche aiutano gli individui a controllare le loro spese, prepararsi per le emergenze e lavorare verso obiettivi finanziari a lungo termine come l'acquisto di una casa, la pensione o l'istruzione."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/moneybag.png",
+      "order": 1,
+      "available": true,
+      "modules": [
+        {
+          "name": {
+            "en": "Fundamentals of Savings and Budgeting",
+            "it": "Fondamenti di Risparmio e Budget"
+          },
+          "order": 1,
+          "available": true,
+          "lessons": [
+            {
+              "title": {
+                "en": "Lesson 1 - benchmark",
+                "it": "Lezione 1 - benchmark"
+              },
+              "order": 1,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/savings_budgeting/savingsjam.png",
+              "materials": [
+                {
+                  "materialType": "text",
+                  "order": 1,
+                  "title": {
+                    "en": "Welcome to the Course",
+                    "it": "Benvenuti al Corso"
+                  },
+                  "content": {
+                    "en": "Hello Elena, welcome to the course in a subject that seems like a walk in the park for Italians: saving.",
+                    "it": "Ciao Elena, benvenuta al corso su un argomento che per gli italiani sembra una passeggiata: risparmiare."
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/savings_budgeting/savingsjam.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 2,
+                  "title": {
+                    "en": "The Reality of Saving",
+                    "it": "La Realtà del Risparmio"
+                  },
+                  "content": {
+                    "en": "**The reality is that saving enough and spending wisely is not easy at all. They say that Italy is one of the countries with the most savings, but very often a young worker (especially if they are a freelancer like you) might find it difficult to set aside enough money to do everything they aspire to do.**",
+                    "it": "**La realtà è che risparmiare abbastanza e spendere saggiamente non è affatto facile. Si dice che l'Italia sia uno dei paesi con più risparmi, ma molto spesso un giovane lavoratore (soprattutto se è un libero professionista come te) potrebbe trovare difficile mettere da parte abbastanza denaro per fare tutto ciò che desidera.**"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Common Financial Situations",
+                    "it": "Situazioni Finanziarie Comuni"
+                  },
+                  "content": {
+                    "en": "**We find some situations very common; do they seem familiar to you?**\n- The future is uncertain, and it leads us to enjoy the present instead of saving for tomorrow.\n- At the end of the month, it's really difficult to have anything left to save.\n- We're told that the only way to save more is to track every expense to the cent and avoid having coffee at the bar.",
+                    "it": "**Troviamo alcune situazioni molto comuni; ti sembrano familiari?**\n- Il futuro è incerto e ci porta a godere del presente invece di risparmiare per il domani.\n- Alla fine del mese, è davvero difficile avere qualcosa da risparmiare.\n- Ci viene detto che l'unico modo per risparmiare di più è tracciare ogni spesa al centesimo ed evitare di prendere il caffè al bar."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Challenges of Freelancing",
+                    "it": "Le Sfide del Freelancing"
+                  },
+                  "content": {
+                    "en": "As if that weren't enough, you're a freelancer.\nIndeed, in most cases, freelancers have fluctuating incomes, making it even more difficult to set savings goals. We understand you.",
+                    "it": "Come se non bastasse, sei un libero professionista.\nInfatti, nella maggior parte dei casi, i liberi professionisti hanno redditi fluttuanti, il che rende ancora più difficile fissare obiettivi di risparmio. Ti capiamo."
+                  }
+                },
+                {
+                  "materialType": "poll",
+                  "order": 5,
+                  "title": {
+                    "en": "How about you?",
+                    "it": "E tu?"
+                  },
+                  "description": {
+                    "en": "How does your saving game look like?",
+                    "it": "Come va il tuo gioco di risparmio?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "Can't save a dime",
+                        "it": "Non riesco a risparmiare un centesimo"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "Can’t save much",
+                        "it": "Non posso risparmiare molto"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "It’s okay",
+                        "it": "Va bene"
+                      },
+                      "votes": 0
+                    },
+                    "4": {
+                      "text": {
+                        "en": "I save a lot; I just need to understand what to do with it",
+                        "it": "Risparmio molto; devo solo capire cosa farne"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 6,
+                  "title": {
+                    "en": "Video",
+                    "it": "Video"
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/savings_budgeting/savingsbenchmarkstory.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 7,
+                  "title": {
+                    "en": "The True Value of Saving",
+                    "it": "Il Vero Valore del Risparmio"
+                  },
+                  "content": {
+                    "en": "As we can see, saving is far from just a simple exercise in sacrifice; it's a true investment in ourselves and our future well-being. Having these motivations clear in our minds will make it much easier to resist consumer biases and develop healthy saving habits with consistency and dedication. Our future selves will be immensely grateful!",
+                    "it": "Come possiamo vedere, risparmiare non è solo un semplice esercizio di sacrificio; è un vero investimento in noi stessi e nel nostro benessere futuro. Avere queste motivazioni chiare nella nostra mente renderà molto più facile resistere ai pregiudizi dei consumatori e sviluppare abitudini di risparmio sane con coerenza e dedizione. I nostri futuri io saranno immensamente grati!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "So, what can you expect?",
+                    "it": "Quindi, cosa puoi aspettarti?"
+                  },
+                  "content": {
+                    "en": "In this course, we aim to achieve a few things:\n- Help you find a healthy balance between spending today (enjoying life) and saving for tomorrow, without too much stress.\n- Help you save more and more easily.\n- Explain an easy and non-restrictive method for budgeting.",
+                    "it": "In questo corso, miriamo a raggiungere alcuni obiettivi:\n- Aiutarti a trovare un sano equilibrio tra spendere oggi (godendosi la vita) e risparmiare per il domani, senza troppo stress.\n- Aiutarti a risparmiare di più e più facilmente.\n- Spiegare un metodo semplice e non restrittivo per il budgeting."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 9,
+                  "title": {
+                    "en": "Goal of the Course",
+                    "it": "Obiettivo del Corso"
+                  },
+                  "content": {
+                    "en": "Our goal is for you not to worry too much about how you spend your money, but to ensure that something is always set aside at the end of the month. The only question you might have left is: how do I manage these savings in the best way? And for that, there's a dedicated course called 'planning.'\n\n**Shall we begin?",
+                    "it": "Il nostro obiettivo è che tu non ti preoccupi troppo di come spendi i tuoi soldi, ma di assicurarti che qualcosa venga sempre messo da parte alla fine del mese. L'unica domanda che potresti avere è: come gestisco questi risparmi nel modo migliore? E per questo, c'è un corso dedicato chiamato 'pianificazione.'\n\n**Iniziamo?**"
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 10,
+                  "title": {
+                    "en": "What is this topic about?",
+                    "it": "Di cosa tratta questo argomento?"
+                  },
+                  "choices": {
+                    "en": [
+                      "How to get rich quick",
+                      "How to steal pension from old ladies",
+                      "How to save more without stressing too much"
+                    ],
+                    "it": [
+                      "Come diventare ricchi velocemente",
+                      "Come rubare la pensione alle vecchiette",
+                      "Come risparmiare di più senza stressarsi troppo"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Correct! This topic is about how to save more without stressing too much.",
+                    "it": "Corretto! Questo argomento tratta di come risparmiare di più senza stressarsi troppo."
+                  },
+                  "wrongAnswerText": {
+                    "en": "Incorrect. This topic is about how to save more without stressing too much.",
+                    "it": "Incorretto. Questo argomento tratta di come risparmiare di più senza stressarsi troppo."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Tracking Your Expenses",
+                "it": "Tenere Traccia delle Spese"
+              },
+              "order": 2,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/savings_budgeting/savings_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "text",
+                  "order": 1,
+                  "title": {
+                    "en": "Why Track Your Spending?",
+                    "it": "Perché Tracciare le Spese?"
+                  },
+                  "content": {
+                    "en": "Tracking your expenses helps you understand where your money is going and identify areas where you can cut back. It's the first step to taking control of your finances.",
+                    "it": "Tenere traccia delle spese ti aiuta a capire dove vanno i tuoi soldi e identificare le aree in cui puoi ridurre le spese. È il primo passo per prendere il controllo delle tue finanze."
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "Tools for Expense Tracking",
+                    "it": "Strumenti per Tracciare le Spese"
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/savings_budgeting/savings_budgeting_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Creating Expense Categories",
+                    "it": "Creare Categorie di Spesa"
+                  },
+                  "content": {
+                    "en": "Divide your expenses into categories such as groceries, entertainment, and transportation. This helps you see where you spend the most and find opportunities to save.",
+                    "it": "Dividi le tue spese in categorie come generi alimentari, intrattenimento e trasporti. Questo ti aiuta a vedere dove spendi di più e trovare opportunità di risparmio."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 4,
+                  "title": {
+                    "en": "Which category does this expense belong to?",
+                    "it": "A quale categoria appartiene questa spesa?"
+                  },
+                  "choices": {
+                    "en": [
+                      "Groceries",
+                      "Entertainment",
+                      "Transportation"
+                    ],
+                    "it": [
+                      "Generi alimentari",
+                      "Intrattenimento",
+                      "Trasporti"
+                    ]
+                  },
+                  "correctAnswer": 0,
+                  "correctAnswerText": {
+                    "en": "Correct! This expense belongs to the Groceries category.",
+                    "it": "Corretto! Questa spesa appartiene alla categoria Generi alimentari."
+                  },
+                  "wrongAnswerText": {
+                    "en": "Incorrect. This expense belongs to the Groceries category.",
+                    "it": "Incorretto. Questa spesa appartiene alla categoria Generi alimentari."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "Great Job!",
+                    "it": "Ottimo lavoro!"
+                  },
+                  "content": {
+                    "en": "You've completed the lesson on tracking your expenses. Keep practicing and soon it will become a habit.",
+                    "it": "Hai completato la lezione su come tracciare le tue spese. Continua a praticare e presto diventerà un'abitudine."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting Financial Goals",
+                "it": "Stabilire Obiettivi Finanziari"
+              },
+              "order": 3,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/savings_budgeting/savings_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "text",
+                  "order": 1,
+                  "title": {
+                    "en": "The Importance of Financial Goals",
+                    "it": "L'importanza degli Obiettivi Finanziari"
+                  },
+                  "content": {
+                    "en": "Setting financial goals helps you stay focused and motivated. It gives you a clear direction and purpose for your budgeting and saving efforts.",
+                    "it": "Stabilire obiettivi finanziari ti aiuta a rimanere concentrato e motivato. Ti dà una direzione e uno scopo chiari per i tuoi sforzi di budgeting e risparmio."
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How to Set SMART Financial Goals",
+                    "it": "Come Stabilire Obiettivi Finanziari SMART"
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/savings_budgeting/savings_budgeting_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Types of Financial Goals",
+                    "it": "Tipi di Obiettivi Finanziari"
+                  },
+                  "content": {
+                    "en": "Financial goals can be short-term, medium-term, or long-term. Examples include saving for an emergency fund, buying a house, or planning for retirement.",
+                    "it": "Gli obiettivi finanziari possono essere a breve, medio o lungo termine. Esempi includono il risparmio per un fondo di emergenza, l'acquisto di una casa o la pianificazione della pensione."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 4,
+                  "title": {
+                    "en": "Which is a short-term financial goal?",
+                    "it": "Qual è un obiettivo finanziario a breve termine?"
+                  },
+                  "choices": {
+                    "en": [
+                      "Saving for an emergency fund",
+                      "Buying a house",
+                      "Planning for retirement"
+                    ],
+                    "it": [
+                      "Risparmiare per un fondo di emergenza",
+                      "Acquistare una casa",
+                      "Pianificare la pensione"
+                    ]
+                  },
+                  "correctAnswer": 0,
+                  "correctAnswerText": {
+                    "en": "Correct! Saving for an emergency fund is typically a short-term financial goal.",
+                    "it": "Corretto! Risparmiare per un fondo di emergenza è tipicamente un obiettivo finanziario a breve termine."
+                  },
+                  "wrongAnswerText": {
+                    "en": "Incorrect. Saving for an emergency fund is typically a short-term financial goal.",
+                    "it": "Incorretto. Risparmiare per un fondo di emergenza è tipicamente un obiettivo finanziario a breve termine."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "Well Done!",
+                    "it": "Ben Fatto!"
+                  },
+                  "content": {
+                    "en": "You've completed the lesson on setting financial goals. Remember, clearly defined goals are the foundation of financial success.",
+                    "it": "Hai completato la lezione su come stabilire obiettivi finanziari. Ricorda, obiettivi chiaramente definiti sono la base del successo finanziario."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Investing",
+        "it": "Investire"
+      },
+      "description": {
+        "en": "Investing involves allocating money into various financial assets with the expectation of generating a profit or income over time. This can include stocks, bonds, mutual funds, real estate, and other investment vehicles. The goal of investing is to grow wealth and achieve financial goals such as retirement, education funding, or wealth preservation. It requires understanding market trends, risk management, and the potential returns of different investment options.",
+        "it": "Investire significa allocare denaro in vari beni finanziari con l'aspettativa di generare un profitto o un reddito nel tempo. Questo può includere azioni, obbligazioni, fondi comuni di investimento, immobili e altri strumenti di investimento. L'obiettivo dell'investimento è far crescere la ricchezza e raggiungere obiettivi finanziari come la pensione, il finanziamento dell'istruzione o la conservazione del patrimonio. Richiede la comprensione delle tendenze di mercato, la gestione del rischio e i potenziali rendimenti delle diverse opzioni di investimento."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/chartdecreasing.png",
+      "order": 2,
+      "available": true,
+      "modules": [
+        {
+          "name": {
+            "en": "Basics of investing",
+            "it": "Nozioni di base sugli investimenti"
+          },
+          "order": 1,
+          "available": true,
+          "lessons": [
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 1,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 2,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 3,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 4,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 5,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 6,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 7,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 8,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Assets and instruments",
+            "it": "Beni e strumenti"
+          },
+          "order": 2,
+          "available": true,
+          "lessons": [
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 1,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 2,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 3,
+              "available": true,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 4,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 5,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 6,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 7,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "en": "Pay yourself first",
+                "it": "Paga te stesso per primo"
+              },
+              "order": 8,
+              "available": false,
+              "thumbnailUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_thumbnail.png",
+              "materials": [
+                {
+                  "materialType": "poll",
+                  "order": 1,
+                  "title": {
+                    "en": "Pay yourself first! 🏆",
+                    "it": "Paga te stesso per primo! 🏆"
+                  },
+                  "description": {
+                    "en": "Earlier we mentioned the phrase 'pay yourself first'? It sounds like something a money guru might say, right? Well, this piece of wisdom is actually a super smart savings strategy.\n\nHave you ever tried the Pay Yourself First approach to saving?",
+                    "it": "Abbiamo menzionato prima la frase 'paga te stesso per primo'? Sembra qualcosa che potrebbe dire un guru del denaro, giusto? Bene, questo pezzo di saggezza è in realtà una strategia di risparmio super intelligente.\n\nHai mai provato l'approccio del pagare te stesso per primo?"
+                  },
+                  "choices": {
+                    "1": {
+                      "text": {
+                        "en": "🚀 Absolutely, and it’s working!",
+                        "it": "🚀 Assolutamente, e sta funzionando!"
+                      },
+                      "votes": 0
+                    },
+                    "2": {
+                      "text": {
+                        "en": "🧐 Not yet, but curious!",
+                        "it": "🧐 Non ancora, ma sono curioso!"
+                      },
+                      "votes": 0
+                    },
+                    "3": {
+                      "text": {
+                        "en": "😅 What’s that?",
+                        "it": "😅 Cos'è?"
+                      },
+                      "votes": 0
+                    }
+                  }
+                },
+                {
+                  "materialType": "story",
+                  "order": 2,
+                  "title": {
+                    "en": "How it works...",
+                    "it": "Come funziona..."
+                  },
+                  "storyUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_story.mp4"
+                },
+                {
+                  "materialType": "text",
+                  "order": 3,
+                  "title": {
+                    "en": "Why it works?",
+                    "it": "Perché funziona?"
+                  },
+                  "content": {
+                    "en": "Why does 'Pay Yourself First' work wonders? It's simple - by saving first, you're guaranteeing that you're building your nest egg, investment, or emergency fund, every single month. No more 'oops, nothing left to save' moments!",
+                    "it": "Perché il principio 'Prima paga te stesso' fa miracoli? È semplice: risparmiando prima, ti garantirai di costruire il tuo gruzzolo, investimento o fondo di emergenza, ogni singolo mese. Niente più momenti 'oops, niente da salvare'!"
+                  },
+                  "pictureUrl": "gs://weltis-development.appspot.com/academy/topics/investing/investing_lesson.png"
+                },
+                {
+                  "materialType": "text",
+                  "order": 4,
+                  "title": {
+                    "en": "Overcoming mental barriers 🧠",
+                    "it": "Superando le barriere mentali 🧠"
+                  },
+                  "content": {
+                    "en": "Think 'Pay Yourself First' means skimping on fun? Not at all!",
+                    "it": "Pensare che 'Pagati prima di tutto' significhi risparmiare sul divertimento? Per niente!"
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 5,
+                  "title": {
+                    "en": "It’s a mindset",
+                    "it": "È una mentalità"
+                  },
+                  "content": {
+                    "en": "Paying yourself first flips the typical budgeting method on its head. Instead of saving what's left after expenses, you're making your savings a priority. It's all about shifting your mindset and viewing saving as non-negotiable – like paying the rent or the electricity bill. This strategy helps ensure that you're growing your savings or investments consistently, even if you're not great at budgeting. It's like putting your savings on autopilot.",
+                    "it": "Pagarsi prima di tutto ribalta il metodo di bilancio tipico. Invece di risparmiare ciò che rimane dopo le spese, stai rendendo i tuoi risparmi una priorità. Si tratta di cambiare mentalità e considerare il risparmio come non negoziabile - come pagare l'affitto o la bolletta della luce. Questa strategia aiuta a garantire che tu stia facendo crescere i tuoi risparmi o investimenti in modo coerente, anche se non sei bravo a bilanciare. È come mettere i tuoi risparmi in pilota automatico."
+                  }
+                },
+                {
+                  "materialType": "quiz",
+                  "order": 6,
+                  "title": {
+                    "en": "The \"pay yourself first\" strategy is about:",
+                    "it": "La strategia 'pagati prima di tutto' riguarda:"
+                  },
+                  "choices": {
+                    "en": [
+                      "Buying what you want before paying bills",
+                      "Paying off your debts before anything else",
+                      "Putting money into savings or investments as soon as you get paid"
+                    ],
+                    "it": [
+                      "Comprare ciò che vuoi prima di pagare le bollette",
+                      "Estinguere i tuoi debiti prima di qualsiasi altra cosa",
+                      "Mettere i soldi in risparmi o investimenti non appena vieni pagato"
+                    ]
+                  },
+                  "correctAnswer": 2,
+                  "correctAnswerText": {
+                    "en": "Paying yourself first means saving money immediately after you get paid, and live off what’s left. The money saved can then be used to pay off debt, for an emergency fund, or for investing.",
+                    "it": "Pagarti prima di tutto significa risparmiare denaro immediatamente dopo essere stato pagato e vivere con ciò che resta. I soldi risparmiati possono poi essere utilizzati per estinguere i debiti, per un fondo di emergenza o per investire."
+                  },
+                  "wrongAnswerText": {
+                    "en": "The correct answer is “Putting money into savings or investments as soon as you get paid”. Therefore, after you saved up, you can spend what’s left.",
+                    "it": "La risposta corretta è 'Mettere i soldi in risparmi o investimenti non appena vieni pagato'. Quindi, dopo aver risparmiato, puoi spendere ciò che resta."
+                  }
+                },
+                {
+                  "materialType": "text",
+                  "order": 8,
+                  "title": {
+                    "en": "Remember!",
+                    "it": "Ricorda!"
+                  },
+                  "content": {
+                    "en": "Paying yourself first isn't about depriving yourself. It's about making sure your future self is taken care of. Think of it as self-care for your future financial health.",
+                    "it": "Pagarti prima di tutto non significa privarti di qualcosa. Si tratta di assicurarsi che il tuo futuro io sia preso in cura. Pensalo come un'autocura per la tua futura salute finanziaria."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Money Mindset",
+        "it": "Mentalità del dinero"
+      },
+      "description": {
+        "en": "In this topic, you will explore the concept of mindset, the set of beliefs and attitudes that shape your thinking and behavior. Understanding and developing a positive mindset is crucial for personal growth and success. You'll learn about different types of mindsets, how they influence your life, and strategies to cultivate a growth mindset to overcome challenges and achieve your goals.",
+        "it": "In questo argomento, esplorerai il concetto di mentalità, l'insieme di credenze e atteggiamenti che modellano il tuo pensiero e comportamento. Comprendere e sviluppare una mentalità positiva è fondamentale per la crescita personale e il successo. Imparerai i diversi tipi di mentalità, come influenzano la tua vita e strategie per coltivare una mentalità di crescita per superare le sfide e raggiungere i tuoi obiettivi."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/brain.png",
+      "order": 3,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Career",
+        "it": "Carriera"
+      },
+      "description": {
+        "en": "This topic covers the essential skills and strategies needed to build and advance in your career. Learn how to set career goals, develop professional skills, and navigate the job market.",
+        "it": "Questo argomento copre le competenze essenziali e le strategie necessarie per costruire e avanzare nella tua carriera. Impara a stabilire obiettivi di carriera, sviluppare competenze professionali e navigare nel mercato del lavoro."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/briefcase.png",
+      "order": 4,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Planning",
+        "it": "Pianificazione"
+      },
+      "description": {
+        "en": "This topic covers the fundamentals of planning for your future. Learn how to set achievable goals, create effective action plans, and manage your time efficiently.",
+        "it": "Questo argomento copre i fondamenti della pianificazione per il tuo futuro. Impara a stabilire obiettivi raggiungibili, creare piani d'azione efficaci e gestire il tuo tempo in modo efficiente."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/controlknobs.png",
+      "order": 5,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Money with Kids",
+        "it": "Soldi con i Bambini"
+      },
+      "description": {
+        "en": "This topic provides insights and tips on managing finances when you have children. Learn about budgeting for a family, saving for education, and teaching kids about money.",
+        "it": "Questo argomento fornisce informazioni e consigli su come gestire le finanze quando si hanno figli. Impara a fare un budget per la famiglia, risparmiare per l'istruzione e insegnare ai bambini il valore del denaro."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/child.png",
+      "order": 6,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Freelancing",
+        "it": "Lavoro autonomo"
+      },
+      "description": {
+        "en": "In this topic, you will learn about freelancing, including how to find clients, manage projects, and build a sustainable freelance business.",
+        "it": "In questo argomento, imparerai a conoscere il lavoro autonomo, incluso come trovare clienti, gestire progetti e costruire un'attività freelance sostenibile."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/laptop.png",
+      "order": 7,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Money in a Relationship",
+        "it": "Soldi in una Relazione"
+      },
+      "description": {
+        "en": "This topic explores the dynamics of managing money in a relationship. Learn about joint finances, financial communication, and strategies for achieving financial harmony with your partner.",
+        "it": "Questo argomento esplora le dinamiche della gestione del denaro in una relazione. Impara a gestire le finanze congiunte, la comunicazione finanziaria e le strategie per raggiungere l'armonia finanziaria con il tuo partner."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/couplewithheart.png",
+      "order": 8,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Properties",
+        "it": "Proprietà"
+      },
+      "description": {
+        "en": "This topic focuses on property investment and management. Learn how to buy, sell, and manage properties effectively.",
+        "it": "Questo argomento si concentra sugli investimenti e la gestione delle proprietà. Impara a comprare, vendere e gestire le proprietà in modo efficace."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/house.png",
+      "order": 9,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Insurance",
+        "it": "Assicurazione"
+      },
+      "description": {
+        "en": "In this topic, you will explore the different types of insurance and understand how to choose the right insurance plans to protect yourself and your assets.",
+        "it": "In questo argomento, esplorerai i diversi tipi di assicurazione e capirai come scegliere i piani assicurativi giusti per proteggere te stesso e i tuoi beni."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/magnifyingglasstiltedright.png",
+      "order": 10,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Pensions",
+        "it": "Pensioni"
+      },
+      "description": {
+        "en": "This topic covers pension plans and retirement planning. Learn about different pension schemes and how to plan for a secure retirement.",
+        "it": "Questo argomento copre i piani pensionistici e la pianificazione della pensione. Impara a conoscere i diversi schemi pensionistici e come pianificare una pensione sicura."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/oldman.png",
+      "order": 11,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Entrepreneurship",
+        "it": "Imprenditorialità"
+      },
+      "description": {
+        "en": "In this topic, you will learn about starting and running your own business. Topics include business planning, funding, and growth strategies.",
+        "it": "In questo argomento, imparerai a avviare e gestire la tua attività. Gli argomenti includono la pianificazione aziendale, il finanziamento e le strategie di crescita."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/hammerandwrench.png",
+      "order": 12,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Debt",
+        "it": "Debito"
+      },
+      "description": {
+        "en": "This topic focuses on managing debt. Learn strategies to reduce and eliminate debt, and understand the impact of debt on your financial health.",
+        "it": "Questo argomento si concentra sulla gestione del debito. Impara strategie per ridurre ed eliminare il debito e capisci l'impatto del debito sulla tua salute finanziaria."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/atmsign.png",
+      "order": 13,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Economics",
+        "it": "Economia"
+      },
+      "description": {
+        "en": "In this topic, you will learn the fundamentals of economics, including supply and demand, market structures, and economic indicators.",
+        "it": "In questo argomento, imparerai i fondamenti dell'economia, inclusi domanda e offerta, strutture di mercato e indicatori economici."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/barchart.png",
+      "order": 14,
+      "available": false,
+      "modules": []
+    },
+    {
+      "name": {
+        "en": "Banks and accounts",
+        "it": "Banche e conti"
+      },
+      "description": {
+        "en": "This topic covers the basics of personal finance, including how to manage your money, understand banking services, and maintain financial accounts.",
+        "it": "Questo argomento copre le basi della finanza personale, incluso come gestire il denaro, comprendere i servizi bancari e mantenere i conti finanziari."
+      },
+      "iconUrl": "gs://weltis-development.appspot.com/academy/topics/icons/bank.png",
+      "order": 15,
+      "available": false,
+      "modules": []
+    }
+  ]
+}
