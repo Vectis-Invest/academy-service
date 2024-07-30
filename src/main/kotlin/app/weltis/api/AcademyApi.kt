@@ -1,6 +1,7 @@
 package app.weltis.api
 
 import app.weltis.model.Academy
+import app.weltis.model.Material
 import app.weltis.service.InitializeAcademyService
 import jakarta.inject.Inject
 import jakarta.ws.rs.Consumes
@@ -23,5 +24,14 @@ class AcademyApi
         fun initAcademy(academyData: Academy): Response {
             println(academyData)
             return Response.ok(academyData).build()
+        }
+
+        @POST
+        @Consumes(MediaType.APPLICATION_JSON)
+        @Produces(MediaType.APPLICATION_JSON)
+        @Path("/materials")
+        fun testMaterials(materials: List<Material>): Response {
+            println(materials)
+            return Response.ok(materials).build()
         }
     }
